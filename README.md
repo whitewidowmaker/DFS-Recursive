@@ -1,4 +1,4 @@
 # DFSRecursive
 
 
-Depth First Search recursive 
+Depth First Search recursive implementation
